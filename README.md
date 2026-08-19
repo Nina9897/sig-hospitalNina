@@ -1,21 +1,5 @@
-# 🏥 SIG-Hospital
-### Sistema Integral de Gestión y Análisis Hospitalario
 
-Aplicación web construida en **Python** con **Streamlit**, totalmente
-funcional **sin API externa ni motor de base de datos**: toda la
-información se administra con archivos **CSV** (carpeta `data/`)
-manipulados mediante `pandas`, que hacen las veces de las tablas de una
-base de datos relacional.
-
----
-
-## 1. Requisitos
-
-- Python 3.9 o superior
-- Conexión a internet solo para instalar las librerías (una vez instaladas,
-  el sistema funciona 100% local, sin conexión).
-
-## 2. Instalación
+## Instalación
 
 ```bash
 # 1. Entra a la carpeta del proyecto
