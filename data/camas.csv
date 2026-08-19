@@ -1,0 +1,26 @@
+id_cama,numero,area,estado
+1,C-001,Medicina Interna,Disponible
+2,C-002,Cirugía,Disponible
+3,C-003,Urgencias,Disponible
+4,C-004,UCI,Disponible
+5,C-005,Pediatría,Ocupada
+6,C-006,UCI,Ocupada
+7,C-007,Pediatría,Disponible
+8,C-008,Pediatría,Disponible
+9,C-009,Medicina Interna,Ocupada
+10,C-010,Urgencias,Disponible
+11,C-011,Pediatría,Disponible
+12,C-012,Medicina Interna,Disponible
+13,C-013,UCI,Disponible
+14,C-014,Medicina Interna,Disponible
+15,C-015,UCI,Disponible
+16,C-016,Urgencias,Ocupada
+17,C-017,Pediatría,Disponible
+18,C-018,Cirugía,Ocupada
+19,C-019,UCI,Disponible
+20,C-020,Pediatría,Ocupada
+21,C-021,Cirugía,Disponible
+22,C-022,Cirugía,Disponible
+23,C-023,UCI,Disponible
+24,C-024,Pediatría,Disponible
+25,C-025,Cirugía,Ocupada

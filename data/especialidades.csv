@@ -1,0 +1,9 @@
+id_especialidad,nombre,descripcion
+1,Medicina General,Consulta y valoración general del paciente
+2,Pediatría,Atención médica a niños y adolescentes
+3,Ginecología,Salud del sistema reproductivo femenino
+4,Cardiología,Enfermedades del corazón y sistema circulatorio
+5,Traumatología,"Lesiones óseas, musculares y articulares"
+6,Dermatología,Enfermedades de la piel
+7,Medicina Interna,Diagnóstico y tratamiento integral en adultos
+8,Urgencias,Atención inmediata de casos críticos

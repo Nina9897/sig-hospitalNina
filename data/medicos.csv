@@ -1,0 +1,17 @@
+id_medico,nombre,apellido,id_especialidad,cedula,telefono,email,fecha_ingreso
+1,Pedro,Hernández,1,CED-10000,5513356886,medico1@sighospital.com,2022-12-31
+2,Sofía,Ramírez,2,CED-10001,5528728463,medico2@sighospital.com,2024-12-07
+3,Lucía,Vázquez,3,CED-10002,5521668732,medico3@sighospital.com,2019-06-18
+4,Paola,López,4,CED-10003,5513999315,medico4@sighospital.com,2025-01-12
+5,Jorge,Ramírez,5,CED-10004,5577827638,medico5@sighospital.com,2019-05-02
+6,María,Vázquez,6,CED-10005,5536687537,medico6@sighospital.com,2018-10-18
+7,Javier,Vázquez,7,CED-10006,5566306997,medico7@sighospital.com,2023-08-12
+8,Andrés,Torres,8,CED-10007,5510872248,medico8@sighospital.com,2024-04-17
+9,Javier,Cruz,1,CED-10008,5555667651,medico9@sighospital.com,2022-12-19
+10,Carlos,Sánchez,2,CED-10009,5555176955,medico10@sighospital.com,2024-12-08
+11,Luis,Díaz,3,CED-10010,5522981052,medico11@sighospital.com,2022-01-21
+12,Camila,Gómez,4,CED-10011,5591030736,medico12@sighospital.com,2023-02-12
+13,Ximena,López,5,CED-10012,5571662963,medico13@sighospital.com,2020-01-26
+14,Ana,Díaz,6,CED-10013,5520576383,medico14@sighospital.com,2019-11-22
+15,Fernanda,Gómez,7,CED-10014,5587490893,medico15@sighospital.com,2023-12-05
+16,Javier,Martínez,8,CED-10015,5516150444,medico16@sighospital.com,2018-09-01

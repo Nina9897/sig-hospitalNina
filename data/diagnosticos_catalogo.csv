@@ -1,0 +1,13 @@
+id_diagnostico,codigo,nombre,categoria
+1,J00,Rinofaringitis aguda (resfriado común),Respiratorio
+2,J06.9,Infección aguda de vías respiratorias altas,Respiratorio
+3,A09,Diarrea y gastroenteritis de presunto origen infeccioso,Digestivo
+4,I10,Hipertensión arterial esencial,Cardiovascular
+5,E11,Diabetes mellitus tipo 2,Endocrino
+6,M54.5,Lumbago no especificado,Musculoesquelético
+7,J45,Asma,Respiratorio
+8,N39.0,Infección de vías urinarias,Genitourinario
+9,R51,Cefalea,Neurológico
+10,L20,Dermatitis atópica,Dermatológico
+11,K29.7,Gastritis no especificada,Digestivo
+12,F41.1,Trastorno de ansiedad generalizada,Salud mental

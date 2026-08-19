@@ -1,0 +1,11 @@
+id_medicamento,nombre,presentacion,stock,precio_unitario
+1,Paracetamol 500mg,Tableta,500,1.5
+2,Ibuprofeno 400mg,Tableta,400,2.0
+3,Amoxicilina 500mg,Cápsula,300,3.2
+4,Loratadina 10mg,Tableta,250,1.8
+5,Omeprazol 20mg,Cápsula,350,2.5
+6,Losartán 50mg,Tableta,300,3.0
+7,Metformina 850mg,Tableta,300,2.2
+8,Salbutamol Inhalador,Inhalador,120,8.5
+9,Diclofenaco 50mg,Tableta,260,1.9
+10,Azitromicina 500mg,Tableta,180,4.5

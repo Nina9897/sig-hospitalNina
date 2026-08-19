@@ -1,0 +1,948 @@
+id_cita,id_paciente,id_medico,id_consultorio,fecha,hora,motivo,estado,fecha_registro
+1,116,2,2,2026-02-19,12:45,Dolor,Completada,2026-02-16
+2,117,9,9,2026-02-19,10:30,Chequeo,No Asistió,2026-02-14
+3,96,11,3,2026-02-19,09:45,Seguimiento,No Asistió,2026-02-15
+4,111,13,5,2026-02-19,16:30,Chequeo,Completada,2026-02-18
+5,15,5,5,2026-02-20,08:00,Chequeo,Completada,2026-02-18
+6,53,9,1,2026-02-20,08:30,Chequeo,Completada,2026-02-16
+7,101,7,7,2026-02-20,09:15,Seguimiento,Completada,2026-02-14
+8,76,11,3,2026-02-20,08:15,Seguimiento,Completada,2026-02-13
+9,4,2,10,2026-02-20,15:45,Consulta general,Completada,2026-02-12
+10,65,14,6,2026-02-20,09:00,Control,Cancelada,2026-02-16
+11,56,15,7,2026-02-20,11:45,Chequeo,Completada,2026-02-13
+12,48,5,5,2026-02-20,16:00,Control,Completada,2026-02-11
+13,14,7,7,2026-02-20,10:45,Consulta general,Completada,2026-02-14
+14,4,9,1,2026-02-21,08:15,Dolor,Completada,2026-02-15
+15,48,10,2,2026-02-21,13:00,Seguimiento,Cancelada,2026-02-18
+16,97,2,2,2026-02-21,18:00,Chequeo,Completada,2026-02-13
+17,8,1,9,2026-02-21,11:30,Seguimiento,No Asistió,2026-02-16
+18,42,4,4,2026-02-22,08:45,Seguimiento,Pendiente,2026-02-19
+19,49,8,8,2026-02-22,16:30,Consulta general,Completada,2026-02-15
+20,56,4,4,2026-02-23,11:45,Control,Completada,2026-02-21
+21,23,5,5,2026-02-23,18:00,Chequeo,Completada,2026-02-15
+22,39,9,1,2026-02-23,17:00,Consulta general,Completada,2026-02-18
+23,78,16,8,2026-02-23,16:15,Chequeo,No Asistió,2026-02-21
+24,92,3,3,2026-02-24,16:15,Chequeo,Completada,2026-02-16
+25,102,11,3,2026-02-24,09:30,Chequeo,Completada,2026-02-19
+26,83,11,3,2026-02-24,10:00,Chequeo,Completada,2026-02-15
+27,107,2,10,2026-02-24,18:30,Control,Cancelada,2026-02-21
+28,77,13,5,2026-02-24,10:15,Control,Completada,2026-02-21
+29,68,14,6,2026-02-24,10:15,Seguimiento,Cancelada,2026-02-19
+30,7,16,8,2026-02-24,13:00,Control,Pendiente,2026-02-22
+31,37,3,3,2026-02-24,10:30,Control,Completada,2026-02-21
+32,102,5,5,2026-02-25,10:00,Chequeo,Completada,2026-02-22
+33,7,8,8,2026-02-25,14:45,Chequeo,Completada,2026-02-15
+34,71,1,1,2026-02-25,14:45,Chequeo,Completada,2026-02-19
+35,18,2,2,2026-02-25,13:30,Seguimiento,Cancelada,2026-02-17
+36,90,16,8,2026-02-25,18:15,Consulta general,Cancelada,2026-02-17
+37,5,10,2,2026-02-25,11:00,Consulta general,Cancelada,2026-02-19
+38,120,10,2,2026-02-25,16:45,Control,No Asistió,2026-02-17
+39,33,2,10,2026-02-25,18:15,Consulta general,Completada,2026-02-19
+40,70,10,10,2026-02-26,13:00,Dolor,Completada,2026-02-21
+41,109,15,7,2026-02-26,08:15,Dolor,Completada,2026-02-20
+42,36,8,8,2026-02-26,09:00,Chequeo,Pendiente,2026-02-17
+43,50,4,4,2026-02-26,12:30,Seguimiento,Pendiente,2026-02-16
+44,37,16,8,2026-02-26,11:00,Consulta general,Completada,2026-02-18
+45,102,12,4,2026-02-27,16:15,Seguimiento,Completada,2026-02-24
+46,106,3,3,2026-02-27,10:30,Chequeo,Completada,2026-02-19
+47,42,8,8,2026-02-27,13:30,Dolor,Cancelada,2026-02-23
+48,82,9,9,2026-02-27,10:30,Consulta general,Completada,2026-02-18
+49,34,7,7,2026-02-27,17:45,Consulta general,Completada,2026-02-19
+50,111,11,3,2026-02-28,13:45,Dolor,Completada,2026-02-19
+51,64,15,7,2026-02-28,15:30,Consulta general,Completada,2026-02-21
+52,113,9,1,2026-03-01,13:45,Chequeo,Completada,2026-02-28
+53,17,4,4,2026-03-02,14:30,Dolor,Cancelada,2026-02-21
+54,47,5,5,2026-03-02,11:45,Consulta general,Completada,2026-03-01
+55,76,11,3,2026-03-02,16:45,Dolor,Pendiente,2026-02-22
+56,105,1,1,2026-03-02,13:30,Chequeo,Confirmada,2026-02-20
+57,102,1,1,2026-03-03,17:45,Control,Completada,2026-02-21
+58,32,2,10,2026-03-03,17:00,Chequeo,Completada,2026-02-25
+59,91,5,5,2026-03-03,16:15,Chequeo,Completada,2026-02-22
+60,91,16,8,2026-03-03,13:45,Dolor,Completada,2026-02-26
+61,35,9,1,2026-03-03,10:00,Control,Completada,2026-02-27
+62,53,16,8,2026-03-03,15:15,Dolor,Cancelada,2026-02-25
+63,37,2,2,2026-03-03,09:15,Consulta general,Completada,2026-02-28
+64,37,15,7,2026-03-04,18:45,Seguimiento,Cancelada,2026-02-23
+65,60,9,1,2026-03-04,11:00,Chequeo,Completada,2026-02-27
+66,13,6,6,2026-03-04,10:45,Seguimiento,Completada,2026-03-03
+67,52,10,2,2026-03-04,09:30,Seguimiento,Completada,2026-02-28
+68,106,7,7,2026-03-04,11:00,Control,Completada,2026-02-26
+69,59,5,5,2026-03-04,16:45,Consulta general,Completada,2026-02-23
+70,120,3,3,2026-03-04,15:00,Seguimiento,Completada,2026-03-01
+71,16,6,6,2026-03-04,16:45,Seguimiento,Completada,2026-03-03
+72,27,3,3,2026-03-05,09:00,Consulta general,Completada,2026-03-01
+73,31,10,10,2026-03-05,10:15,Dolor,Completada,2026-03-04
+74,49,6,6,2026-03-05,16:45,Seguimiento,Completada,2026-02-28
+75,107,7,7,2026-03-05,08:30,Control,Completada,2026-02-23
+76,16,16,8,2026-03-05,11:15,Seguimiento,Completada,2026-02-24
+77,118,7,7,2026-03-05,13:30,Control,Completada,2026-03-01
+78,59,6,6,2026-03-06,13:15,Control,Completada,2026-02-26
+79,53,5,5,2026-03-06,18:15,Seguimiento,Completada,2026-03-05
+80,1,14,6,2026-03-06,08:00,Dolor,Completada,2026-02-25
+81,48,13,5,2026-03-06,15:15,Seguimiento,No Asistió,2026-03-01
+82,88,3,3,2026-03-06,18:00,Chequeo,Completada,2026-02-27
+83,119,9,1,2026-03-06,16:00,Dolor,Completada,2026-03-05
+84,93,3,3,2026-03-06,16:30,Chequeo,Completada,2026-03-02
+85,49,3,3,2026-03-06,17:30,Consulta general,Cancelada,2026-03-04
+86,35,5,5,2026-03-06,14:15,Dolor,Pendiente,2026-02-28
+87,14,3,3,2026-03-06,08:30,Dolor,Completada,2026-03-04
+88,116,8,8,2026-03-07,17:15,Seguimiento,Confirmada,2026-03-04
+89,35,10,10,2026-03-07,12:45,Seguimiento,Completada,2026-02-28
+90,51,11,3,2026-03-07,17:45,Dolor,Cancelada,2026-02-27
+91,43,14,6,2026-03-07,18:15,Control,Completada,2026-03-03
+92,36,13,5,2026-03-08,13:00,Seguimiento,No Asistió,2026-02-26
+93,70,6,6,2026-03-08,18:00,Chequeo,No Asistió,2026-03-04
+94,57,10,10,2026-03-08,09:45,Seguimiento,Confirmada,2026-03-03
+95,33,5,5,2026-03-09,14:45,Control,Completada,2026-03-01
+96,22,2,2,2026-03-09,17:45,Dolor,No Asistió,2026-03-02
+97,14,1,9,2026-03-09,09:30,Control,Completada,2026-02-28
+98,19,12,4,2026-03-09,12:30,Seguimiento,Completada,2026-02-28
+99,83,4,4,2026-03-09,18:15,Seguimiento,No Asistió,2026-02-28
+100,23,6,6,2026-03-09,13:45,Seguimiento,No Asistió,2026-03-02
+101,24,14,6,2026-03-10,14:00,Seguimiento,Pendiente,2026-03-02
+102,76,14,6,2026-03-10,14:00,Seguimiento,Pendiente,2026-03-05
+103,97,3,3,2026-03-10,17:00,Control,Cancelada,2026-03-07
+104,47,11,3,2026-03-10,11:45,Chequeo,Completada,2026-03-01
+105,91,10,2,2026-03-10,17:00,Dolor,Confirmada,2026-03-08
+106,40,4,4,2026-03-11,10:30,Control,Confirmada,2026-03-04
+107,54,5,5,2026-03-11,17:45,Chequeo,Completada,2026-03-02
+108,65,16,8,2026-03-11,14:45,Chequeo,Completada,2026-03-03
+109,106,12,4,2026-03-11,16:00,Chequeo,Cancelada,2026-03-02
+110,28,14,6,2026-03-11,09:15,Consulta general,Completada,2026-03-03
+111,105,7,7,2026-03-11,08:30,Control,Completada,2026-03-02
+112,97,14,6,2026-03-12,08:30,Seguimiento,Cancelada,2026-03-09
+113,32,5,5,2026-03-12,13:15,Chequeo,Cancelada,2026-03-04
+114,19,9,9,2026-03-12,18:45,Consulta general,Completada,2026-03-10
+115,51,7,7,2026-03-12,14:15,Dolor,Completada,2026-03-07
+116,55,7,7,2026-03-12,10:30,Dolor,Completada,2026-03-10
+117,17,8,8,2026-03-13,16:45,Dolor,Completada,2026-03-11
+118,84,6,6,2026-03-13,15:30,Seguimiento,Pendiente,2026-03-06
+119,79,15,7,2026-03-13,11:00,Seguimiento,Cancelada,2026-03-11
+120,76,13,5,2026-03-13,13:45,Seguimiento,Completada,2026-03-09
+121,27,7,7,2026-03-14,14:30,Seguimiento,Completada,2026-03-06
+122,50,14,6,2026-03-14,13:15,Consulta general,Cancelada,2026-03-13
+123,9,1,1,2026-03-15,12:15,Consulta general,Completada,2026-03-08
+124,104,5,5,2026-03-15,16:30,Consulta general,Completada,2026-03-10
+125,18,1,9,2026-03-15,10:45,Control,No Asistió,2026-03-06
+126,101,9,1,2026-03-15,10:30,Dolor,Completada,2026-03-13
+127,21,9,9,2026-03-16,09:00,Control,Completada,2026-03-15
+128,41,9,9,2026-03-16,09:30,Consulta general,Completada,2026-03-13
+129,71,15,7,2026-03-16,08:30,Control,Completada,2026-03-11
+130,45,1,1,2026-03-16,13:00,Chequeo,Cancelada,2026-03-11
+131,14,7,7,2026-03-16,16:15,Consulta general,Completada,2026-03-13
+132,8,14,6,2026-03-16,18:15,Dolor,Completada,2026-03-10
+133,14,5,5,2026-03-16,09:15,Dolor,Completada,2026-03-09
+134,39,2,10,2026-03-16,11:30,Seguimiento,Completada,2026-03-10
+135,13,15,7,2026-03-17,09:15,Consulta general,Completada,2026-03-13
+136,104,5,5,2026-03-17,09:30,Chequeo,Completada,2026-03-16
+137,83,10,2,2026-03-17,15:45,Chequeo,Cancelada,2026-03-16
+138,12,9,9,2026-03-17,14:15,Control,Completada,2026-03-13
+139,77,8,8,2026-03-17,08:30,Chequeo,Completada,2026-03-08
+140,23,8,8,2026-03-17,17:30,Dolor,Cancelada,2026-03-07
+141,91,12,4,2026-03-18,17:15,Seguimiento,Completada,2026-03-10
+142,8,1,9,2026-03-18,10:15,Control,Cancelada,2026-03-12
+143,10,12,4,2026-03-18,18:45,Dolor,Completada,2026-03-13
+144,23,1,1,2026-03-19,17:45,Control,Cancelada,2026-03-18
+145,24,11,3,2026-03-19,17:15,Consulta general,Completada,2026-03-11
+146,114,11,3,2026-03-19,15:00,Seguimiento,Completada,2026-03-17
+147,113,13,5,2026-03-19,13:45,Chequeo,Completada,2026-03-09
+148,44,16,8,2026-03-19,08:45,Seguimiento,No Asistió,2026-03-09
+149,21,2,10,2026-03-20,09:30,Seguimiento,Completada,2026-03-13
+150,81,16,8,2026-03-20,11:00,Seguimiento,Completada,2026-03-15
+151,34,15,7,2026-03-20,15:30,Dolor,Completada,2026-03-10
+152,88,16,8,2026-03-20,17:15,Consulta general,Completada,2026-03-13
+153,6,14,6,2026-03-20,09:45,Seguimiento,Completada,2026-03-10
+154,15,14,6,2026-03-20,10:15,Control,Completada,2026-03-18
+155,63,16,8,2026-03-20,08:15,Seguimiento,Completada,2026-03-10
+156,40,9,1,2026-03-20,15:00,Seguimiento,No Asistió,2026-03-17
+157,39,15,7,2026-03-20,13:30,Control,Pendiente,2026-03-18
+158,57,7,7,2026-03-21,14:45,Dolor,Cancelada,2026-03-20
+159,102,6,6,2026-03-22,09:30,Chequeo,Pendiente,2026-03-19
+160,100,1,1,2026-03-22,10:15,Seguimiento,Cancelada,2026-03-21
+161,32,2,2,2026-03-22,15:00,Seguimiento,No Asistió,2026-03-17
+162,48,15,7,2026-03-22,16:45,Consulta general,Completada,2026-03-21
+163,83,8,8,2026-03-23,18:15,Chequeo,Completada,2026-03-14
+164,60,10,2,2026-03-23,18:45,Consulta general,Completada,2026-03-14
+165,98,8,8,2026-03-23,08:45,Seguimiento,Confirmada,2026-03-22
+166,84,16,8,2026-03-23,12:30,Chequeo,No Asistió,2026-03-16
+167,95,2,2,2026-03-23,17:15,Seguimiento,Completada,2026-03-14
+168,38,4,4,2026-03-23,15:15,Control,Pendiente,2026-03-20
+169,84,3,3,2026-03-24,11:30,Dolor,Completada,2026-03-17
+170,10,16,8,2026-03-24,11:00,Chequeo,Cancelada,2026-03-15
+171,39,14,6,2026-03-24,08:15,Seguimiento,Completada,2026-03-18
+172,23,11,3,2026-03-24,18:00,Dolor,Completada,2026-03-20
+173,2,11,3,2026-03-24,16:15,Consulta general,Completada,2026-03-20
+174,46,7,7,2026-03-24,10:45,Seguimiento,Completada,2026-03-21
+175,108,1,1,2026-03-24,08:00,Chequeo,Completada,2026-03-22
+176,107,4,4,2026-03-24,16:00,Consulta general,Completada,2026-03-16
+177,107,16,8,2026-03-25,10:00,Consulta general,Cancelada,2026-03-23
+178,116,9,1,2026-03-25,18:15,Dolor,Completada,2026-03-20
+179,113,3,3,2026-03-25,13:30,Chequeo,Completada,2026-03-18
+180,103,15,7,2026-03-25,10:45,Control,Cancelada,2026-03-24
+181,62,16,8,2026-03-26,09:45,Consulta general,Completada,2026-03-21
+182,87,13,5,2026-03-26,10:00,Seguimiento,Completada,2026-03-17
+183,58,3,3,2026-03-26,15:45,Chequeo,Completada,2026-03-25
+184,72,7,7,2026-03-26,18:45,Dolor,No Asistió,2026-03-25
+185,105,8,8,2026-03-26,15:30,Control,Completada,2026-03-16
+186,18,14,6,2026-03-27,09:30,Seguimiento,Completada,2026-03-25
+187,18,16,8,2026-03-27,08:00,Chequeo,Completada,2026-03-17
+188,118,8,8,2026-03-27,12:45,Dolor,No Asistió,2026-03-19
+189,104,5,5,2026-03-27,10:45,Control,Completada,2026-03-22
+190,62,14,6,2026-03-27,18:30,Chequeo,Cancelada,2026-03-26
+191,67,4,4,2026-03-27,08:45,Consulta general,Completada,2026-03-23
+192,83,13,5,2026-03-27,11:30,Consulta general,Confirmada,2026-03-20
+193,50,14,6,2026-03-27,18:30,Consulta general,No Asistió,2026-03-26
+194,96,9,1,2026-03-27,11:45,Dolor,Cancelada,2026-03-17
+195,70,7,7,2026-03-27,11:30,Consulta general,Completada,2026-03-24
+196,119,11,3,2026-03-29,17:00,Control,Cancelada,2026-03-24
+197,102,12,4,2026-03-30,09:30,Seguimiento,Completada,2026-03-21
+198,106,1,1,2026-03-30,09:30,Control,Completada,2026-03-20
+199,58,16,8,2026-03-30,08:30,Seguimiento,Cancelada,2026-03-24
+200,66,3,3,2026-03-30,09:15,Control,No Asistió,2026-03-21
+201,1,3,3,2026-03-30,11:15,Chequeo,Cancelada,2026-03-28
+202,27,14,6,2026-03-30,18:00,Seguimiento,Pendiente,2026-03-29
+203,59,11,3,2026-03-30,08:00,Seguimiento,Completada,2026-03-25
+204,46,4,4,2026-03-30,12:30,Dolor,Completada,2026-03-22
+205,83,12,4,2026-03-30,08:15,Consulta general,Completada,2026-03-20
+206,25,4,4,2026-03-30,10:00,Control,Cancelada,2026-03-22
+207,38,3,3,2026-03-31,12:00,Control,Completada,2026-03-23
+208,43,10,10,2026-03-31,17:15,Dolor,Completada,2026-03-25
+209,23,3,3,2026-03-31,12:15,Seguimiento,Cancelada,2026-03-26
+210,94,3,3,2026-03-31,09:00,Consulta general,Cancelada,2026-03-21
+211,99,7,7,2026-04-01,08:30,Control,Completada,2026-03-24
+212,109,6,6,2026-04-01,16:15,Seguimiento,Completada,2026-03-22
+213,48,8,8,2026-04-01,08:15,Dolor,Completada,2026-03-25
+214,115,3,3,2026-04-01,16:30,Seguimiento,Completada,2026-03-23
+215,28,5,5,2026-04-01,10:15,Consulta general,Completada,2026-03-28
+216,21,5,5,2026-04-01,18:00,Seguimiento,Cancelada,2026-03-31
+217,22,9,1,2026-04-01,10:45,Control,Completada,2026-03-31
+218,77,5,5,2026-04-01,17:15,Control,Completada,2026-03-27
+219,116,2,2,2026-04-01,16:00,Seguimiento,Completada,2026-03-22
+220,37,14,6,2026-04-02,12:15,Consulta general,Completada,2026-03-23
+221,51,7,7,2026-04-02,14:45,Control,Completada,2026-03-24
+222,30,15,7,2026-04-02,10:00,Chequeo,Completada,2026-03-27
+223,119,14,6,2026-04-02,09:00,Dolor,Completada,2026-03-31
+224,25,2,10,2026-04-03,17:15,Consulta general,Completada,2026-03-28
+225,118,12,4,2026-04-03,13:30,Seguimiento,Completada,2026-03-26
+226,62,8,8,2026-04-03,13:45,Control,Confirmada,2026-04-02
+227,62,4,4,2026-04-03,12:00,Seguimiento,Completada,2026-03-30
+228,35,6,6,2026-04-03,18:15,Seguimiento,Completada,2026-03-30
+229,6,16,8,2026-04-03,13:30,Control,Completada,2026-03-29
+230,111,6,6,2026-04-03,15:00,Chequeo,Confirmada,2026-03-28
+231,49,4,4,2026-04-06,13:30,Dolor,Completada,2026-04-03
+232,88,8,8,2026-04-06,09:30,Control,Cancelada,2026-03-30
+233,110,13,5,2026-04-06,11:15,Seguimiento,Cancelada,2026-03-29
+234,104,1,9,2026-04-06,10:45,Control,Completada,2026-03-28
+235,58,11,3,2026-04-06,12:30,Control,Completada,2026-04-01
+236,58,3,3,2026-04-06,14:30,Seguimiento,Completada,2026-04-03
+237,96,15,7,2026-04-07,14:15,Consulta general,Completada,2026-04-04
+238,14,9,1,2026-04-07,17:15,Chequeo,Completada,2026-04-02
+239,57,5,5,2026-04-07,16:15,Chequeo,Completada,2026-03-28
+240,45,10,2,2026-04-07,15:00,Chequeo,Confirmada,2026-03-30
+241,39,1,1,2026-04-07,14:30,Consulta general,Completada,2026-03-29
+242,55,8,8,2026-04-07,16:30,Control,Completada,2026-04-02
+243,24,4,4,2026-04-07,12:30,Chequeo,Completada,2026-04-06
+244,43,3,3,2026-04-07,10:00,Chequeo,Completada,2026-04-05
+245,59,4,4,2026-04-08,16:15,Dolor,Completada,2026-04-02
+246,75,4,4,2026-04-08,14:15,Consulta general,Completada,2026-03-29
+247,69,4,4,2026-04-08,10:45,Control,Completada,2026-04-02
+248,72,10,2,2026-04-08,16:45,Seguimiento,Completada,2026-03-30
+249,114,1,9,2026-04-08,17:30,Seguimiento,Cancelada,2026-04-02
+250,93,3,3,2026-04-08,18:45,Chequeo,Completada,2026-03-30
+251,74,13,5,2026-04-09,18:45,Control,Completada,2026-04-04
+252,114,14,6,2026-04-09,13:00,Dolor,Cancelada,2026-03-31
+253,6,3,3,2026-04-09,12:00,Control,No Asistió,2026-04-07
+254,93,8,8,2026-04-10,16:45,Control,Completada,2026-04-06
+255,44,6,6,2026-04-10,16:45,Dolor,No Asistió,2026-04-01
+256,42,12,4,2026-04-10,14:45,Dolor,Cancelada,2026-03-31
+257,31,7,7,2026-04-10,14:30,Chequeo,Completada,2026-04-02
+258,28,11,3,2026-04-11,08:30,Control,No Asistió,2026-04-02
+259,119,5,5,2026-04-12,09:00,Seguimiento,Completada,2026-04-09
+260,63,4,4,2026-04-12,17:30,Control,Completada,2026-04-05
+261,6,11,3,2026-04-12,16:15,Seguimiento,Completada,2026-04-09
+262,52,9,9,2026-04-12,09:45,Seguimiento,Completada,2026-04-09
+263,42,12,4,2026-04-13,17:00,Seguimiento,Cancelada,2026-04-07
+264,79,15,7,2026-04-13,17:15,Seguimiento,Completada,2026-04-09
+265,2,11,3,2026-04-13,09:30,Consulta general,Completada,2026-04-07
+266,6,9,1,2026-04-13,10:00,Control,Completada,2026-04-08
+267,50,8,8,2026-04-13,14:00,Chequeo,No Asistió,2026-04-03
+268,69,3,3,2026-04-13,10:15,Chequeo,Completada,2026-04-04
+269,113,13,5,2026-04-14,08:30,Dolor,Completada,2026-04-07
+270,27,5,5,2026-04-14,17:15,Dolor,Cancelada,2026-04-05
+271,117,5,5,2026-04-14,14:15,Control,Confirmada,2026-04-11
+272,41,3,3,2026-04-14,16:00,Seguimiento,Completada,2026-04-13
+273,30,8,8,2026-04-14,18:00,Chequeo,Completada,2026-04-11
+274,97,7,7,2026-04-14,09:15,Chequeo,No Asistió,2026-04-04
+275,63,11,3,2026-04-14,15:15,Consulta general,Completada,2026-04-04
+276,67,13,5,2026-04-15,08:45,Consulta general,Completada,2026-04-11
+277,115,5,5,2026-04-15,14:45,Consulta general,Completada,2026-04-12
+278,47,3,3,2026-04-15,16:45,Control,Pendiente,2026-04-05
+279,21,13,5,2026-04-15,16:45,Seguimiento,Completada,2026-04-09
+280,2,15,7,2026-04-15,15:45,Consulta general,Completada,2026-04-05
+281,45,2,10,2026-04-15,10:00,Control,Confirmada,2026-04-10
+282,118,3,3,2026-04-16,08:00,Seguimiento,Completada,2026-04-13
+283,120,2,10,2026-04-16,09:30,Chequeo,Completada,2026-04-14
+284,93,10,10,2026-04-16,14:30,Control,Completada,2026-04-06
+285,102,4,4,2026-04-16,11:45,Dolor,Completada,2026-04-10
+286,71,11,3,2026-04-16,08:00,Dolor,Confirmada,2026-04-09
+287,93,1,9,2026-04-16,10:15,Dolor,Completada,2026-04-08
+288,119,2,10,2026-04-16,16:30,Dolor,Completada,2026-04-07
+289,15,10,2,2026-04-16,13:00,Consulta general,Completada,2026-04-08
+290,25,11,3,2026-04-17,15:30,Seguimiento,Cancelada,2026-04-15
+291,106,5,5,2026-04-17,11:00,Control,Completada,2026-04-15
+292,96,10,2,2026-04-17,08:30,Seguimiento,Completada,2026-04-11
+293,35,5,5,2026-04-17,12:15,Dolor,Completada,2026-04-07
+294,92,3,3,2026-04-17,15:15,Chequeo,Completada,2026-04-15
+295,101,11,3,2026-04-18,15:45,Chequeo,Completada,2026-04-16
+296,53,8,8,2026-04-18,17:15,Chequeo,Completada,2026-04-11
+297,13,15,7,2026-04-19,10:30,Consulta general,No Asistió,2026-04-09
+298,14,13,5,2026-04-19,13:45,Consulta general,Completada,2026-04-17
+299,88,11,3,2026-04-19,12:30,Chequeo,No Asistió,2026-04-13
+300,12,1,1,2026-04-19,17:45,Dolor,Cancelada,2026-04-18
+301,116,2,10,2026-04-20,08:30,Dolor,Completada,2026-04-19
+302,108,14,6,2026-04-20,10:30,Seguimiento,No Asistió,2026-04-17
+303,2,3,3,2026-04-20,18:00,Chequeo,Completada,2026-04-13
+304,66,14,6,2026-04-20,16:45,Seguimiento,Completada,2026-04-17
+305,5,16,8,2026-04-20,13:00,Consulta general,Completada,2026-04-17
+306,81,3,3,2026-04-20,18:30,Dolor,Completada,2026-04-11
+307,96,10,2,2026-04-20,17:30,Chequeo,Completada,2026-04-10
+308,2,4,4,2026-04-20,17:15,Seguimiento,No Asistió,2026-04-12
+309,104,6,6,2026-04-21,12:15,Control,Completada,2026-04-20
+310,31,15,7,2026-04-21,18:15,Dolor,Completada,2026-04-20
+311,68,14,6,2026-04-21,08:30,Chequeo,No Asistió,2026-04-14
+312,87,11,3,2026-04-21,16:00,Control,Completada,2026-04-15
+313,44,6,6,2026-04-21,13:00,Consulta general,Confirmada,2026-04-20
+314,53,4,4,2026-04-21,16:00,Dolor,Confirmada,2026-04-17
+315,93,10,10,2026-04-21,12:15,Control,Completada,2026-04-19
+316,85,3,3,2026-04-21,18:45,Dolor,No Asistió,2026-04-14
+317,33,6,6,2026-04-22,09:30,Chequeo,Cancelada,2026-04-15
+318,43,2,10,2026-04-22,12:30,Consulta general,Completada,2026-04-14
+319,94,9,1,2026-04-22,15:00,Seguimiento,Cancelada,2026-04-21
+320,120,2,10,2026-04-22,18:45,Dolor,Completada,2026-04-15
+321,83,3,3,2026-04-22,13:30,Chequeo,Completada,2026-04-17
+322,63,3,3,2026-04-22,18:45,Seguimiento,Pendiente,2026-04-21
+323,25,1,9,2026-04-22,17:15,Consulta general,Completada,2026-04-13
+324,112,5,5,2026-04-22,17:15,Consulta general,No Asistió,2026-04-19
+325,84,1,1,2026-04-23,15:00,Seguimiento,Completada,2026-04-22
+326,55,11,3,2026-04-23,18:45,Control,Completada,2026-04-14
+327,18,4,4,2026-04-23,18:45,Consulta general,Cancelada,2026-04-15
+328,11,1,1,2026-04-23,08:15,Control,No Asistió,2026-04-18
+329,54,16,8,2026-04-23,10:15,Dolor,Completada,2026-04-14
+330,25,4,4,2026-04-23,16:00,Control,Completada,2026-04-14
+331,64,6,6,2026-04-23,10:00,Dolor,Completada,2026-04-18
+332,63,4,4,2026-04-23,09:15,Control,Pendiente,2026-04-13
+333,42,14,6,2026-04-23,11:30,Consulta general,Completada,2026-04-17
+334,48,5,5,2026-04-23,15:15,Dolor,Completada,2026-04-19
+335,12,14,6,2026-04-24,16:45,Seguimiento,Cancelada,2026-04-14
+336,61,15,7,2026-04-24,12:00,Seguimiento,Pendiente,2026-04-20
+337,42,14,6,2026-04-24,17:15,Control,Cancelada,2026-04-21
+338,117,1,1,2026-04-24,14:00,Chequeo,Completada,2026-04-15
+339,3,16,8,2026-04-24,18:30,Chequeo,Completada,2026-04-14
+340,43,2,2,2026-04-24,12:45,Control,Cancelada,2026-04-15
+341,102,7,7,2026-04-25,18:00,Dolor,Completada,2026-04-24
+342,62,7,7,2026-04-25,11:30,Dolor,Completada,2026-04-16
+343,12,3,3,2026-04-25,14:15,Consulta general,Completada,2026-04-23
+344,88,5,5,2026-04-25,15:30,Consulta general,Completada,2026-04-20
+345,102,9,9,2026-04-26,11:45,Dolor,Completada,2026-04-25
+346,57,9,1,2026-04-27,13:15,Consulta general,Completada,2026-04-21
+347,70,11,3,2026-04-27,18:30,Dolor,Completada,2026-04-17
+348,15,10,2,2026-04-27,08:45,Seguimiento,Completada,2026-04-19
+349,8,12,4,2026-04-27,14:15,Chequeo,Pendiente,2026-04-21
+350,50,12,4,2026-04-27,08:30,Dolor,Completada,2026-04-19
+351,39,16,8,2026-04-28,16:30,Control,Completada,2026-04-21
+352,6,10,10,2026-04-28,17:30,Chequeo,Completada,2026-04-24
+353,32,1,9,2026-04-28,09:30,Consulta general,Completada,2026-04-18
+354,66,1,1,2026-04-28,12:15,Seguimiento,Completada,2026-04-22
+355,66,7,7,2026-04-28,18:15,Control,Cancelada,2026-04-25
+356,70,11,3,2026-04-28,13:30,Dolor,Completada,2026-04-26
+357,28,5,5,2026-04-29,16:15,Control,Cancelada,2026-04-19
+358,89,4,4,2026-04-29,14:45,Consulta general,No Asistió,2026-04-26
+359,119,1,9,2026-04-29,15:30,Dolor,Completada,2026-04-26
+360,55,4,4,2026-04-29,09:00,Chequeo,Cancelada,2026-04-28
+361,14,2,10,2026-04-30,18:00,Dolor,Completada,2026-04-29
+362,36,12,4,2026-04-30,13:15,Control,Cancelada,2026-04-26
+363,65,3,3,2026-04-30,09:00,Seguimiento,Completada,2026-04-25
+364,76,6,6,2026-04-30,15:00,Dolor,Completada,2026-04-23
+365,11,11,3,2026-04-30,15:00,Chequeo,Completada,2026-04-20
+366,115,16,8,2026-04-30,18:30,Chequeo,Completada,2026-04-28
+367,16,8,8,2026-05-01,14:45,Control,Completada,2026-04-21
+368,36,5,5,2026-05-01,15:00,Chequeo,Completada,2026-04-23
+369,85,16,8,2026-05-01,15:15,Chequeo,Completada,2026-04-23
+370,50,15,7,2026-05-01,13:45,Consulta general,Completada,2026-04-30
+371,61,16,8,2026-05-01,16:15,Chequeo,Completada,2026-04-26
+372,44,13,5,2026-05-01,09:45,Dolor,Completada,2026-04-24
+373,15,11,3,2026-05-01,10:00,Consulta general,Completada,2026-04-23
+374,13,7,7,2026-05-01,13:45,Dolor,Completada,2026-04-28
+375,34,2,10,2026-05-01,12:45,Control,Cancelada,2026-04-29
+376,13,11,3,2026-05-02,12:00,Control,Completada,2026-04-24
+377,81,6,6,2026-05-02,17:45,Chequeo,Completada,2026-04-27
+378,82,7,7,2026-05-02,14:30,Seguimiento,Cancelada,2026-04-27
+379,88,8,8,2026-05-02,14:15,Seguimiento,Completada,2026-05-01
+380,101,1,9,2026-05-03,08:00,Dolor,Completada,2026-05-01
+381,33,16,8,2026-05-03,09:15,Dolor,Completada,2026-04-27
+382,41,14,6,2026-05-03,15:15,Seguimiento,No Asistió,2026-04-27
+383,92,12,4,2026-05-04,12:00,Control,Completada,2026-05-03
+384,119,9,1,2026-05-04,12:00,Seguimiento,No Asistió,2026-04-29
+385,27,6,6,2026-05-04,15:30,Chequeo,Cancelada,2026-05-03
+386,36,3,3,2026-05-04,15:45,Dolor,Pendiente,2026-04-27
+387,113,4,4,2026-05-04,10:30,Dolor,Completada,2026-04-27
+388,15,6,6,2026-05-04,11:15,Chequeo,Cancelada,2026-04-28
+389,58,16,8,2026-05-04,10:30,Control,Completada,2026-04-28
+390,110,6,6,2026-05-04,08:45,Control,Completada,2026-04-29
+391,111,9,1,2026-05-04,12:45,Chequeo,Completada,2026-04-30
+392,59,3,3,2026-05-04,08:45,Dolor,Completada,2026-04-27
+393,51,12,4,2026-05-05,10:00,Dolor,Completada,2026-05-02
+394,116,9,1,2026-05-05,17:30,Chequeo,Completada,2026-05-02
+395,6,15,7,2026-05-05,13:45,Consulta general,Completada,2026-05-02
+396,75,7,7,2026-05-05,17:00,Control,Completada,2026-05-02
+397,108,11,3,2026-05-05,10:00,Chequeo,Completada,2026-04-27
+398,94,5,5,2026-05-05,11:00,Dolor,Cancelada,2026-04-29
+399,103,2,2,2026-05-05,09:45,Dolor,Completada,2026-05-02
+400,46,4,4,2026-05-06,13:15,Chequeo,Completada,2026-04-28
+401,11,10,2,2026-05-06,15:45,Chequeo,Completada,2026-05-01
+402,73,9,9,2026-05-06,13:30,Control,Completada,2026-05-05
+403,44,6,6,2026-05-06,11:15,Control,Completada,2026-05-01
+404,47,13,5,2026-05-06,12:00,Consulta general,Completada,2026-05-02
+405,55,1,9,2026-05-07,09:15,Chequeo,No Asistió,2026-04-29
+406,61,1,1,2026-05-07,15:15,Control,Completada,2026-04-30
+407,93,16,8,2026-05-07,11:00,Chequeo,Completada,2026-04-27
+408,61,12,4,2026-05-07,15:15,Control,Completada,2026-05-01
+409,84,12,4,2026-05-07,15:15,Dolor,Completada,2026-05-05
+410,27,2,2,2026-05-07,08:30,Dolor,Cancelada,2026-05-04
+411,23,2,2,2026-05-07,09:30,Control,Completada,2026-05-03
+412,110,4,4,2026-05-07,08:45,Consulta general,Cancelada,2026-05-05
+413,101,4,4,2026-05-07,16:00,Seguimiento,Completada,2026-05-05
+414,57,14,6,2026-05-07,08:15,Chequeo,Cancelada,2026-05-01
+415,65,6,6,2026-05-08,09:30,Chequeo,Completada,2026-05-02
+416,115,15,7,2026-05-08,16:30,Chequeo,No Asistió,2026-05-05
+417,99,1,9,2026-05-08,16:00,Dolor,Completada,2026-05-01
+418,92,10,2,2026-05-08,14:45,Control,Cancelada,2026-05-03
+419,93,11,3,2026-05-08,13:00,Control,Cancelada,2026-04-28
+420,118,5,5,2026-05-08,14:45,Control,Completada,2026-04-28
+421,66,10,2,2026-05-08,16:30,Seguimiento,Cancelada,2026-05-07
+422,76,9,1,2026-05-10,11:30,Control,Pendiente,2026-05-08
+423,94,2,2,2026-05-10,13:30,Dolor,Completada,2026-05-08
+424,74,5,5,2026-05-10,14:15,Control,Completada,2026-04-30
+425,67,13,5,2026-05-10,12:45,Chequeo,Completada,2026-05-02
+426,72,12,4,2026-05-11,09:45,Dolor,Completada,2026-05-01
+427,63,1,1,2026-05-11,09:30,Consulta general,Completada,2026-05-04
+428,86,14,6,2026-05-11,14:15,Dolor,No Asistió,2026-05-02
+429,6,15,7,2026-05-11,12:00,Consulta general,Cancelada,2026-05-01
+430,81,10,10,2026-05-11,16:00,Consulta general,Completada,2026-05-07
+431,52,2,2,2026-05-12,15:00,Seguimiento,Completada,2026-05-05
+432,24,1,1,2026-05-12,08:30,Dolor,Completada,2026-05-09
+433,71,14,6,2026-05-12,09:45,Seguimiento,Completada,2026-05-11
+434,58,2,10,2026-05-12,08:45,Control,No Asistió,2026-05-07
+435,84,6,6,2026-05-12,08:00,Chequeo,No Asistió,2026-05-07
+436,77,9,1,2026-05-12,18:45,Seguimiento,No Asistió,2026-05-02
+437,108,10,10,2026-05-12,08:15,Control,Pendiente,2026-05-10
+438,39,3,3,2026-05-12,14:00,Control,Cancelada,2026-05-07
+439,27,11,3,2026-05-13,18:30,Chequeo,Completada,2026-05-08
+440,72,16,8,2026-05-13,14:00,Consulta general,Cancelada,2026-05-04
+441,4,15,7,2026-05-13,18:00,Chequeo,Completada,2026-05-03
+442,29,8,8,2026-05-13,15:30,Chequeo,Completada,2026-05-03
+443,73,6,6,2026-05-13,09:15,Seguimiento,Pendiente,2026-05-08
+444,120,8,8,2026-05-13,16:30,Consulta general,Completada,2026-05-04
+445,36,4,4,2026-05-13,18:45,Control,Completada,2026-05-12
+446,40,3,3,2026-05-13,18:00,Chequeo,Completada,2026-05-12
+447,67,8,8,2026-05-13,09:45,Chequeo,Cancelada,2026-05-03
+448,11,2,2,2026-05-14,08:45,Consulta general,Completada,2026-05-11
+449,101,1,1,2026-05-14,15:45,Chequeo,Completada,2026-05-04
+450,62,15,7,2026-05-14,10:15,Consulta general,Completada,2026-05-13
+451,78,11,3,2026-05-14,12:30,Control,No Asistió,2026-05-04
+452,8,8,8,2026-05-15,16:00,Seguimiento,Completada,2026-05-11
+453,64,8,8,2026-05-15,08:15,Chequeo,Confirmada,2026-05-05
+454,28,8,8,2026-05-15,15:30,Chequeo,Cancelada,2026-05-11
+455,52,6,6,2026-05-15,08:30,Dolor,Completada,2026-05-14
+456,32,6,6,2026-05-15,11:00,Dolor,Completada,2026-05-13
+457,25,13,5,2026-05-16,13:30,Seguimiento,Completada,2026-05-15
+458,9,6,6,2026-05-17,16:45,Control,Cancelada,2026-05-11
+459,64,15,7,2026-05-17,10:30,Control,Pendiente,2026-05-09
+460,92,16,8,2026-05-17,15:30,Control,Completada,2026-05-16
+461,33,3,3,2026-05-17,10:00,Control,Completada,2026-05-11
+462,46,3,3,2026-05-18,12:00,Seguimiento,Cancelada,2026-05-16
+463,16,3,3,2026-05-18,13:00,Dolor,Completada,2026-05-14
+464,70,9,1,2026-05-18,08:30,Dolor,Completada,2026-05-11
+465,96,7,7,2026-05-18,15:15,Control,Completada,2026-05-10
+466,58,1,1,2026-05-19,13:15,Seguimiento,Completada,2026-05-14
+467,43,13,5,2026-05-19,14:15,Consulta general,No Asistió,2026-05-10
+468,50,7,7,2026-05-19,15:00,Chequeo,Completada,2026-05-14
+469,48,1,9,2026-05-19,10:30,Chequeo,Cancelada,2026-05-12
+470,21,4,4,2026-05-19,10:45,Consulta general,Completada,2026-05-12
+471,19,15,7,2026-05-19,09:45,Seguimiento,Completada,2026-05-10
+472,54,8,8,2026-05-19,10:45,Seguimiento,Completada,2026-05-09
+473,118,3,3,2026-05-19,11:45,Control,Completada,2026-05-17
+474,5,1,1,2026-05-19,12:00,Seguimiento,Pendiente,2026-05-13
+475,86,15,7,2026-05-19,15:45,Control,Completada,2026-05-15
+476,28,2,10,2026-05-20,18:15,Consulta general,Completada,2026-05-11
+477,2,11,3,2026-05-20,11:00,Consulta general,Completada,2026-05-17
+478,46,11,3,2026-05-20,10:00,Dolor,Completada,2026-05-19
+479,90,13,5,2026-05-20,18:15,Dolor,Completada,2026-05-12
+480,40,8,8,2026-05-20,14:15,Consulta general,Completada,2026-05-17
+481,18,9,9,2026-05-21,13:00,Chequeo,Completada,2026-05-16
+482,103,8,8,2026-05-21,17:45,Seguimiento,Completada,2026-05-13
+483,76,7,7,2026-05-21,11:00,Chequeo,Completada,2026-05-16
+484,51,13,5,2026-05-21,10:45,Control,Completada,2026-05-11
+485,77,5,5,2026-05-21,16:15,Chequeo,Completada,2026-05-16
+486,51,12,4,2026-05-21,14:45,Control,Completada,2026-05-19
+487,95,8,8,2026-05-21,11:45,Dolor,Completada,2026-05-20
+488,51,3,3,2026-05-21,16:15,Seguimiento,Cancelada,2026-05-14
+489,89,10,10,2026-05-22,16:45,Chequeo,Completada,2026-05-20
+490,1,6,6,2026-05-22,15:00,Chequeo,Completada,2026-05-13
+491,34,14,6,2026-05-22,15:00,Seguimiento,Cancelada,2026-05-20
+492,38,3,3,2026-05-22,14:00,Dolor,Completada,2026-05-21
+493,78,9,1,2026-05-22,15:45,Control,Cancelada,2026-05-15
+494,44,12,4,2026-05-22,18:30,Seguimiento,No Asistió,2026-05-16
+495,86,13,5,2026-05-22,14:00,Dolor,No Asistió,2026-05-20
+496,112,13,5,2026-05-24,10:00,Control,Completada,2026-05-19
+497,42,15,7,2026-05-24,11:45,Control,Completada,2026-05-22
+498,107,15,7,2026-05-24,10:45,Chequeo,No Asistió,2026-05-15
+499,32,7,7,2026-05-25,10:00,Consulta general,Completada,2026-05-22
+500,18,16,8,2026-05-25,09:30,Control,Cancelada,2026-05-15
+501,9,11,3,2026-05-25,14:45,Control,Confirmada,2026-05-18
+502,104,8,8,2026-05-25,11:30,Consulta general,Completada,2026-05-23
+503,109,13,5,2026-05-25,14:30,Seguimiento,Cancelada,2026-05-16
+504,85,8,8,2026-05-25,09:45,Chequeo,Completada,2026-05-19
+505,81,7,7,2026-05-26,15:30,Chequeo,Pendiente,2026-05-25
+506,104,11,3,2026-05-26,10:15,Seguimiento,Cancelada,2026-05-25
+507,119,6,6,2026-05-26,15:45,Seguimiento,Completada,2026-05-25
+508,42,2,10,2026-05-26,12:45,Control,Confirmada,2026-05-23
+509,57,16,8,2026-05-26,12:15,Seguimiento,Completada,2026-05-25
+510,44,14,6,2026-05-26,10:45,Consulta general,Completada,2026-05-22
+511,49,9,9,2026-05-26,18:45,Consulta general,Completada,2026-05-24
+512,96,4,4,2026-05-26,17:15,Chequeo,Completada,2026-05-21
+513,92,4,4,2026-05-26,11:00,Control,Completada,2026-05-23
+514,1,8,8,2026-05-26,12:00,Control,No Asistió,2026-05-21
+515,18,16,8,2026-05-27,13:30,Control,Completada,2026-05-23
+516,78,7,7,2026-05-27,17:30,Control,Completada,2026-05-20
+517,83,7,7,2026-05-27,13:15,Seguimiento,Completada,2026-05-21
+518,100,9,9,2026-05-27,10:15,Consulta general,Completada,2026-05-20
+519,35,4,4,2026-05-27,08:15,Chequeo,Completada,2026-05-24
+520,118,12,4,2026-05-27,11:45,Seguimiento,Pendiente,2026-05-19
+521,46,15,7,2026-05-27,16:30,Chequeo,Completada,2026-05-18
+522,37,16,8,2026-05-27,08:45,Seguimiento,Confirmada,2026-05-19
+523,64,4,4,2026-05-27,14:00,Consulta general,Completada,2026-05-20
+524,55,16,8,2026-05-27,14:15,Consulta general,Completada,2026-05-21
+525,1,15,7,2026-05-28,13:30,Consulta general,Completada,2026-05-22
+526,33,8,8,2026-05-28,15:45,Dolor,Completada,2026-05-21
+527,6,5,5,2026-05-28,14:45,Consulta general,Pendiente,2026-05-25
+528,86,7,7,2026-05-28,15:30,Chequeo,Completada,2026-05-19
+529,20,12,4,2026-05-28,16:00,Seguimiento,Cancelada,2026-05-27
+530,87,11,3,2026-05-28,14:00,Dolor,Completada,2026-05-23
+531,101,4,4,2026-05-28,16:15,Control,Completada,2026-05-25
+532,62,2,10,2026-05-28,16:45,Dolor,Completada,2026-05-26
+533,63,12,4,2026-05-29,13:30,Consulta general,Completada,2026-05-20
+534,16,2,2,2026-05-29,17:15,Chequeo,Completada,2026-05-27
+535,81,4,4,2026-05-29,14:00,Control,Completada,2026-05-20
+536,22,15,7,2026-05-29,16:45,Chequeo,Completada,2026-05-22
+537,65,9,1,2026-05-29,12:15,Dolor,Completada,2026-05-20
+538,35,2,2,2026-05-29,18:15,Seguimiento,No Asistió,2026-05-20
+539,15,1,1,2026-05-29,18:30,Dolor,Completada,2026-05-23
+540,85,4,4,2026-05-30,14:30,Control,Cancelada,2026-05-21
+541,27,15,7,2026-05-30,11:30,Control,Completada,2026-05-23
+542,40,6,6,2026-05-30,10:45,Seguimiento,Confirmada,2026-05-28
+543,19,3,3,2026-05-30,14:15,Chequeo,Completada,2026-05-28
+544,2,1,1,2026-05-31,09:30,Consulta general,Cancelada,2026-05-27
+545,18,16,8,2026-05-31,17:45,Dolor,Cancelada,2026-05-25
+546,62,5,5,2026-05-31,11:00,Dolor,Completada,2026-05-22
+547,37,8,8,2026-05-31,18:45,Consulta general,Confirmada,2026-05-23
+548,15,8,8,2026-06-01,09:30,Control,Completada,2026-05-26
+549,88,10,10,2026-06-01,17:30,Consulta general,Completada,2026-05-27
+550,50,15,7,2026-06-01,15:00,Chequeo,Completada,2026-05-27
+551,64,16,8,2026-06-01,16:15,Control,Completada,2026-05-25
+552,8,12,4,2026-06-01,13:15,Seguimiento,Completada,2026-05-23
+553,47,5,5,2026-06-02,09:15,Control,Completada,2026-05-26
+554,5,6,6,2026-06-02,16:15,Chequeo,Completada,2026-05-25
+555,106,3,3,2026-06-02,15:45,Chequeo,Completada,2026-05-26
+556,9,7,7,2026-06-02,17:00,Dolor,Cancelada,2026-05-29
+557,71,7,7,2026-06-02,18:00,Consulta general,Completada,2026-05-23
+558,51,7,7,2026-06-03,13:45,Seguimiento,Pendiente,2026-06-01
+559,43,14,6,2026-06-03,16:00,Seguimiento,Completada,2026-06-02
+560,65,11,3,2026-06-03,15:15,Dolor,Completada,2026-05-24
+561,71,3,3,2026-06-03,15:00,Seguimiento,Completada,2026-05-29
+562,63,2,10,2026-06-03,13:30,Control,Completada,2026-05-31
+563,38,13,5,2026-06-03,10:45,Seguimiento,Cancelada,2026-05-27
+564,112,15,7,2026-06-03,18:00,Chequeo,Completada,2026-05-25
+565,41,11,3,2026-06-04,17:45,Chequeo,Completada,2026-06-02
+566,7,7,7,2026-06-04,08:45,Seguimiento,Completada,2026-06-02
+567,44,10,2,2026-06-04,10:15,Chequeo,Completada,2026-05-27
+568,120,5,5,2026-06-04,15:30,Chequeo,Completada,2026-05-30
+569,87,1,9,2026-06-05,13:30,Dolor,Completada,2026-05-27
+570,15,6,6,2026-06-05,15:45,Control,Completada,2026-05-26
+571,12,4,4,2026-06-05,09:00,Chequeo,Completada,2026-06-03
+572,16,12,4,2026-06-05,15:45,Chequeo,No Asistió,2026-06-04
+573,48,8,8,2026-06-05,16:30,Dolor,Completada,2026-05-31
+574,105,11,3,2026-06-05,13:15,Chequeo,No Asistió,2026-06-01
+575,51,7,7,2026-06-06,17:45,Control,Cancelada,2026-05-30
+576,17,13,5,2026-06-06,10:45,Control,No Asistió,2026-06-03
+577,56,8,8,2026-06-06,09:15,Control,Completada,2026-05-30
+578,17,15,7,2026-06-06,18:30,Seguimiento,Completada,2026-06-01
+579,37,9,1,2026-06-08,10:00,Dolor,Completada,2026-06-04
+580,78,2,10,2026-06-08,09:30,Chequeo,No Asistió,2026-05-29
+581,77,1,9,2026-06-08,10:30,Seguimiento,No Asistió,2026-05-29
+582,4,1,9,2026-06-08,16:15,Dolor,Completada,2026-06-06
+583,96,16,8,2026-06-08,14:45,Dolor,No Asistió,2026-06-05
+584,88,9,9,2026-06-09,14:00,Control,Completada,2026-06-04
+585,105,3,3,2026-06-09,15:15,Control,Cancelada,2026-06-04
+586,76,14,6,2026-06-09,12:30,Consulta general,Completada,2026-06-06
+587,60,11,3,2026-06-09,11:00,Control,Completada,2026-06-05
+588,64,2,2,2026-06-09,12:45,Chequeo,Completada,2026-06-06
+589,17,13,5,2026-06-09,08:00,Consulta general,Completada,2026-06-07
+590,64,4,4,2026-06-10,13:00,Consulta general,Completada,2026-06-09
+591,15,2,10,2026-06-10,12:00,Control,Completada,2026-06-03
+592,82,15,7,2026-06-10,18:00,Seguimiento,Completada,2026-05-31
+593,110,7,7,2026-06-10,09:00,Consulta general,No Asistió,2026-06-06
+594,2,7,7,2026-06-10,15:45,Consulta general,Completada,2026-06-04
+595,58,7,7,2026-06-10,14:15,Chequeo,Completada,2026-06-07
+596,16,3,3,2026-06-10,13:45,Chequeo,Completada,2026-06-01
+597,14,2,2,2026-06-10,18:15,Seguimiento,No Asistió,2026-06-08
+598,7,2,2,2026-06-10,17:30,Control,Completada,2026-06-08
+599,82,10,2,2026-06-10,17:30,Consulta general,Pendiente,2026-06-07
+600,95,10,2,2026-06-11,11:15,Consulta general,Completada,2026-06-08
+601,75,1,1,2026-06-11,15:15,Consulta general,Completada,2026-06-10
+602,43,15,7,2026-06-11,15:30,Dolor,No Asistió,2026-06-03
+603,33,12,4,2026-06-11,15:00,Dolor,Cancelada,2026-06-05
+604,115,16,8,2026-06-11,09:30,Consulta general,Confirmada,2026-06-08
+605,53,8,8,2026-06-11,18:15,Consulta general,Completada,2026-06-07
+606,36,15,7,2026-06-11,16:15,Dolor,Completada,2026-06-05
+607,119,5,5,2026-06-11,15:15,Dolor,Completada,2026-06-01
+608,7,9,1,2026-06-11,10:30,Control,Cancelada,2026-06-02
+609,20,3,3,2026-06-11,12:15,Seguimiento,No Asistió,2026-06-04
+610,38,8,8,2026-06-12,08:45,Seguimiento,No Asistió,2026-06-05
+611,55,13,5,2026-06-12,09:30,Control,No Asistió,2026-06-07
+612,23,14,6,2026-06-12,18:30,Seguimiento,Cancelada,2026-06-08
+613,33,5,5,2026-06-12,14:15,Consulta general,Completada,2026-06-07
+614,60,1,1,2026-06-13,16:00,Chequeo,No Asistió,2026-06-11
+615,97,5,5,2026-06-13,17:30,Control,Cancelada,2026-06-04
+616,48,5,5,2026-06-13,17:30,Chequeo,Completada,2026-06-10
+617,89,11,3,2026-06-14,08:00,Control,Pendiente,2026-06-13
+618,90,7,7,2026-06-14,16:15,Chequeo,Completada,2026-06-11
+619,15,3,3,2026-06-14,08:15,Consulta general,Completada,2026-06-05
+620,56,5,5,2026-06-15,18:00,Seguimiento,Completada,2026-06-12
+621,36,13,5,2026-06-15,14:00,Chequeo,Completada,2026-06-12
+622,113,15,7,2026-06-15,12:00,Dolor,No Asistió,2026-06-06
+623,110,7,7,2026-06-15,13:45,Seguimiento,Completada,2026-06-12
+624,74,9,9,2026-06-16,10:30,Control,Completada,2026-06-10
+625,102,8,8,2026-06-16,09:15,Chequeo,Pendiente,2026-06-09
+626,119,3,3,2026-06-16,08:30,Consulta general,Completada,2026-06-08
+627,37,8,8,2026-06-16,11:15,Control,Completada,2026-06-12
+628,73,3,3,2026-06-16,13:15,Control,Confirmada,2026-06-08
+629,107,7,7,2026-06-17,17:45,Dolor,Completada,2026-06-07
+630,3,8,8,2026-06-17,12:30,Dolor,Completada,2026-06-15
+631,34,7,7,2026-06-17,13:00,Control,Completada,2026-06-11
+632,45,3,3,2026-06-17,14:00,Chequeo,Cancelada,2026-06-14
+633,35,2,10,2026-06-17,09:00,Seguimiento,Completada,2026-06-11
+634,78,13,5,2026-06-17,18:00,Consulta general,Completada,2026-06-10
+635,30,3,3,2026-06-18,17:00,Control,Completada,2026-06-08
+636,85,4,4,2026-06-18,18:00,Control,Completada,2026-06-14
+637,32,9,1,2026-06-18,13:00,Chequeo,Completada,2026-06-08
+638,90,15,7,2026-06-18,18:45,Consulta general,No Asistió,2026-06-10
+639,108,2,2,2026-06-18,12:30,Dolor,Completada,2026-06-16
+640,120,1,1,2026-06-18,17:30,Dolor,No Asistió,2026-06-08
+641,97,1,9,2026-06-19,13:45,Consulta general,Cancelada,2026-06-17
+642,71,13,5,2026-06-19,18:30,Control,Cancelada,2026-06-11
+643,55,9,9,2026-06-19,10:45,Seguimiento,Completada,2026-06-16
+644,104,1,9,2026-06-19,09:30,Dolor,Completada,2026-06-14
+645,115,11,3,2026-06-19,09:45,Dolor,Completada,2026-06-14
+646,30,2,2,2026-06-19,12:30,Dolor,Completada,2026-06-10
+647,78,12,4,2026-06-21,13:45,Dolor,Cancelada,2026-06-13
+648,38,1,1,2026-06-21,10:30,Seguimiento,Completada,2026-06-11
+649,107,2,2,2026-06-22,18:15,Consulta general,Completada,2026-06-20
+650,57,11,3,2026-06-22,12:15,Dolor,Cancelada,2026-06-18
+651,43,8,8,2026-06-22,13:15,Consulta general,Completada,2026-06-18
+652,100,14,6,2026-06-22,18:15,Dolor,Completada,2026-06-16
+653,22,4,4,2026-06-22,14:30,Chequeo,Cancelada,2026-06-20
+654,17,2,10,2026-06-22,14:00,Consulta general,Confirmada,2026-06-19
+655,66,13,5,2026-06-22,14:30,Control,Completada,2026-06-18
+656,118,12,4,2026-06-22,15:45,Chequeo,Completada,2026-06-17
+657,23,9,9,2026-06-22,09:15,Dolor,Completada,2026-06-21
+658,13,12,4,2026-06-23,12:15,Dolor,Completada,2026-06-15
+659,63,1,1,2026-06-23,13:15,Control,Completada,2026-06-16
+660,94,3,3,2026-06-23,13:15,Dolor,Completada,2026-06-15
+661,5,1,1,2026-06-23,11:15,Seguimiento,Completada,2026-06-19
+662,79,7,7,2026-06-23,10:00,Dolor,Completada,2026-06-13
+663,86,16,8,2026-06-23,15:45,Control,Completada,2026-06-15
+664,108,16,8,2026-06-23,17:45,Consulta general,Confirmada,2026-06-18
+665,35,7,7,2026-06-23,14:00,Dolor,Completada,2026-06-18
+666,69,7,7,2026-06-24,18:00,Control,No Asistió,2026-06-14
+667,43,5,5,2026-06-24,17:00,Consulta general,No Asistió,2026-06-17
+668,12,11,3,2026-06-24,13:00,Control,Confirmada,2026-06-20
+669,47,7,7,2026-06-24,10:45,Seguimiento,Cancelada,2026-06-19
+670,103,6,6,2026-06-24,13:30,Control,Completada,2026-06-20
+671,17,9,1,2026-06-25,09:00,Chequeo,Completada,2026-06-24
+672,36,15,7,2026-06-25,11:00,Control,Completada,2026-06-17
+673,49,1,1,2026-06-25,15:45,Control,No Asistió,2026-06-23
+674,58,8,8,2026-06-25,17:00,Seguimiento,Completada,2026-06-17
+675,98,8,8,2026-06-25,08:45,Dolor,Completada,2026-06-19
+676,62,3,3,2026-06-25,09:45,Chequeo,Confirmada,2026-06-22
+677,97,1,1,2026-06-25,10:00,Chequeo,Completada,2026-06-23
+678,93,9,1,2026-06-25,16:30,Dolor,Completada,2026-06-15
+679,23,5,5,2026-06-25,15:00,Consulta general,No Asistió,2026-06-20
+680,26,4,4,2026-06-26,16:45,Consulta general,Completada,2026-06-16
+681,80,13,5,2026-06-26,12:15,Seguimiento,Completada,2026-06-24
+682,27,6,6,2026-06-26,08:15,Consulta general,No Asistió,2026-06-16
+683,19,5,5,2026-06-26,10:45,Dolor,Cancelada,2026-06-24
+684,115,2,10,2026-06-26,10:45,Chequeo,Completada,2026-06-20
+685,72,15,7,2026-06-26,15:30,Control,Confirmada,2026-06-19
+686,23,1,9,2026-06-27,13:45,Dolor,Cancelada,2026-06-20
+687,28,7,7,2026-06-27,14:30,Consulta general,Completada,2026-06-23
+688,35,2,2,2026-06-28,18:30,Chequeo,Completada,2026-06-27
+689,23,16,8,2026-06-28,18:00,Consulta general,Completada,2026-06-18
+690,84,1,9,2026-06-28,13:30,Seguimiento,Cancelada,2026-06-18
+691,93,12,4,2026-06-28,16:00,Chequeo,No Asistió,2026-06-21
+692,9,7,7,2026-06-29,16:15,Consulta general,Pendiente,2026-06-26
+693,57,2,10,2026-06-29,12:15,Chequeo,Confirmada,2026-06-26
+694,82,1,9,2026-06-29,12:30,Consulta general,Completada,2026-06-23
+695,41,1,1,2026-06-30,10:00,Dolor,Completada,2026-06-22
+696,73,11,3,2026-06-30,14:15,Dolor,Cancelada,2026-06-26
+697,23,10,2,2026-06-30,12:45,Chequeo,Completada,2026-06-24
+698,56,12,4,2026-06-30,18:30,Control,Completada,2026-06-21
+699,85,2,2,2026-06-30,13:00,Consulta general,Completada,2026-06-27
+700,94,13,5,2026-07-01,15:15,Dolor,Completada,2026-06-21
+701,90,7,7,2026-07-01,17:15,Dolor,Completada,2026-06-30
+702,32,5,5,2026-07-01,18:30,Seguimiento,Completada,2026-06-25
+703,50,5,5,2026-07-01,13:15,Dolor,Completada,2026-06-26
+704,47,11,3,2026-07-01,16:00,Chequeo,Completada,2026-06-29
+705,5,9,9,2026-07-01,14:15,Control,Completada,2026-06-29
+706,39,14,6,2026-07-01,12:00,Chequeo,Completada,2026-06-22
+707,112,3,3,2026-07-01,10:00,Control,Completada,2026-06-26
+708,55,11,3,2026-07-01,18:30,Consulta general,Cancelada,2026-06-22
+709,23,10,2,2026-07-02,13:45,Dolor,Completada,2026-06-27
+710,45,15,7,2026-07-02,17:15,Control,No Asistió,2026-06-22
+711,59,2,2,2026-07-02,09:30,Seguimiento,Completada,2026-06-22
+712,33,3,3,2026-07-02,14:00,Control,Cancelada,2026-06-27
+713,39,8,8,2026-07-02,08:30,Seguimiento,Completada,2026-06-25
+714,35,15,7,2026-07-02,17:30,Seguimiento,Completada,2026-07-01
+715,41,12,4,2026-07-02,15:15,Chequeo,Completada,2026-06-28
+716,11,7,7,2026-07-03,16:30,Dolor,Completada,2026-06-25
+717,118,5,5,2026-07-03,14:00,Seguimiento,Completada,2026-06-29
+718,82,11,3,2026-07-03,16:45,Chequeo,Completada,2026-06-25
+719,50,14,6,2026-07-03,14:45,Consulta general,Completada,2026-06-23
+720,22,16,8,2026-07-03,18:00,Consulta general,No Asistió,2026-06-23
+721,114,13,5,2026-07-03,16:15,Seguimiento,Cancelada,2026-06-25
+722,48,8,8,2026-07-03,10:45,Seguimiento,No Asistió,2026-06-27
+723,17,10,10,2026-07-03,09:00,Chequeo,Completada,2026-06-25
+724,111,16,8,2026-07-04,14:00,Dolor,Cancelada,2026-06-25
+725,16,1,1,2026-07-04,15:45,Consulta general,Cancelada,2026-06-29
+726,104,13,5,2026-07-04,08:30,Control,Completada,2026-06-26
+727,116,16,8,2026-07-06,11:30,Chequeo,Completada,2026-06-30
+728,61,15,7,2026-07-06,18:30,Seguimiento,Completada,2026-07-03
+729,83,5,5,2026-07-06,17:30,Chequeo,Completada,2026-06-28
+730,84,7,7,2026-07-06,13:45,Consulta general,Completada,2026-06-27
+731,89,8,8,2026-07-06,11:45,Control,Completada,2026-07-01
+732,57,3,3,2026-07-06,15:15,Control,Completada,2026-07-02
+733,35,16,8,2026-07-06,18:15,Chequeo,Completada,2026-06-27
+734,61,16,8,2026-07-06,10:15,Chequeo,Completada,2026-07-01
+735,39,7,7,2026-07-06,17:15,Seguimiento,Completada,2026-06-29
+736,48,5,5,2026-07-06,12:30,Dolor,Pendiente,2026-06-28
+737,55,13,5,2026-07-07,14:00,Chequeo,Cancelada,2026-07-06
+738,53,12,4,2026-07-07,18:15,Dolor,No Asistió,2026-07-06
+739,105,7,7,2026-07-07,11:30,Dolor,Completada,2026-07-06
+740,61,2,10,2026-07-07,18:45,Chequeo,Confirmada,2026-07-03
+741,36,13,5,2026-07-07,08:00,Dolor,Completada,2026-07-02
+742,72,3,3,2026-07-07,15:15,Control,Completada,2026-07-02
+743,41,12,4,2026-07-07,15:15,Chequeo,Completada,2026-07-03
+744,3,14,6,2026-07-08,08:30,Chequeo,Cancelada,2026-07-03
+745,74,11,3,2026-07-08,18:00,Control,Pendiente,2026-07-06
+746,72,4,4,2026-07-08,16:15,Consulta general,Cancelada,2026-06-28
+747,119,15,7,2026-07-08,17:15,Chequeo,Cancelada,2026-07-03
+748,60,15,7,2026-07-08,10:30,Control,Completada,2026-07-02
+749,34,8,8,2026-07-08,17:30,Seguimiento,Completada,2026-06-28
+750,85,7,7,2026-07-08,11:30,Dolor,Completada,2026-07-04
+751,27,13,5,2026-07-08,17:00,Seguimiento,Completada,2026-06-29
+752,33,4,4,2026-07-09,15:00,Chequeo,Completada,2026-07-02
+753,6,5,5,2026-07-09,11:15,Seguimiento,Completada,2026-06-30
+754,80,14,6,2026-07-09,10:45,Control,Completada,2026-07-06
+755,5,5,5,2026-07-09,14:00,Control,Completada,2026-06-30
+756,40,16,8,2026-07-09,15:30,Control,Completada,2026-07-03
+757,14,8,8,2026-07-09,11:30,Dolor,Completada,2026-07-03
+758,48,5,5,2026-07-09,17:00,Chequeo,Pendiente,2026-07-08
+759,102,7,7,2026-07-09,10:00,Consulta general,Completada,2026-07-05
+760,70,15,7,2026-07-09,09:30,Control,Confirmada,2026-07-03
+761,44,6,6,2026-07-09,12:30,Chequeo,Cancelada,2026-06-30
+762,85,4,4,2026-07-10,18:30,Dolor,Cancelada,2026-07-08
+763,101,12,4,2026-07-10,14:00,Seguimiento,No Asistió,2026-07-08
+764,30,15,7,2026-07-10,09:00,Dolor,Completada,2026-07-07
+765,94,12,4,2026-07-10,16:15,Control,Completada,2026-07-01
+766,55,7,7,2026-07-10,12:00,Chequeo,No Asistió,2026-07-05
+767,50,14,6,2026-07-10,15:45,Dolor,Completada,2026-07-09
+768,54,13,5,2026-07-10,17:15,Dolor,Completada,2026-07-08
+769,19,9,9,2026-07-10,13:00,Control,Completada,2026-07-05
+770,59,5,5,2026-07-10,09:30,Consulta general,Cancelada,2026-07-03
+771,108,9,1,2026-07-10,09:45,Seguimiento,Completada,2026-07-02
+772,116,9,1,2026-07-11,18:30,Dolor,Completada,2026-07-05
+773,78,13,5,2026-07-11,08:00,Consulta general,Completada,2026-07-01
+774,86,1,9,2026-07-12,11:15,Dolor,Completada,2026-07-10
+775,36,15,7,2026-07-12,08:30,Dolor,Completada,2026-07-09
+776,110,3,3,2026-07-12,13:30,Seguimiento,Completada,2026-07-06
+777,97,6,6,2026-07-13,10:30,Seguimiento,Completada,2026-07-03
+778,52,9,1,2026-07-13,10:30,Chequeo,Completada,2026-07-10
+779,29,8,8,2026-07-13,11:45,Seguimiento,Completada,2026-07-10
+780,74,13,5,2026-07-13,12:30,Dolor,Cancelada,2026-07-06
+781,48,12,4,2026-07-13,11:30,Consulta general,Completada,2026-07-10
+782,30,12,4,2026-07-13,18:15,Control,Completada,2026-07-12
+783,36,9,9,2026-07-13,08:45,Seguimiento,Completada,2026-07-06
+784,88,11,3,2026-07-13,08:00,Dolor,Pendiente,2026-07-03
+785,100,3,3,2026-07-14,17:00,Seguimiento,Completada,2026-07-10
+786,24,4,4,2026-07-14,12:30,Chequeo,Completada,2026-07-09
+787,8,12,4,2026-07-14,09:15,Control,Completada,2026-07-13
+788,64,6,6,2026-07-14,16:15,Consulta general,No Asistió,2026-07-11
+789,74,6,6,2026-07-15,15:15,Chequeo,Completada,2026-07-14
+790,79,11,3,2026-07-15,15:45,Consulta general,Cancelada,2026-07-06
+791,9,11,3,2026-07-15,11:30,Chequeo,Completada,2026-07-11
+792,58,7,7,2026-07-15,12:45,Chequeo,Completada,2026-07-13
+793,40,6,6,2026-07-15,18:30,Control,Pendiente,2026-07-14
+794,7,10,10,2026-07-15,14:15,Control,Completada,2026-07-14
+795,64,7,7,2026-07-15,17:00,Chequeo,Completada,2026-07-11
+796,48,13,5,2026-07-15,08:15,Seguimiento,Completada,2026-07-05
+797,36,7,7,2026-07-16,15:30,Chequeo,Completada,2026-07-15
+798,33,13,5,2026-07-16,12:30,Control,Completada,2026-07-11
+799,107,13,5,2026-07-16,10:00,Consulta general,Cancelada,2026-07-12
+800,56,12,4,2026-07-16,15:15,Consulta general,Completada,2026-07-07
+801,51,13,5,2026-07-16,10:30,Seguimiento,Completada,2026-07-13
+802,72,6,6,2026-07-16,10:30,Consulta general,Completada,2026-07-09
+803,99,4,4,2026-07-16,11:00,Consulta general,Completada,2026-07-15
+804,59,16,8,2026-07-16,10:45,Dolor,Completada,2026-07-12
+805,17,12,4,2026-07-16,11:45,Chequeo,Completada,2026-07-08
+806,116,15,7,2026-07-17,16:45,Dolor,Completada,2026-07-13
+807,50,6,6,2026-07-17,12:15,Control,Completada,2026-07-13
+808,3,1,9,2026-07-17,08:30,Dolor,Cancelada,2026-07-11
+809,26,5,5,2026-07-17,11:30,Dolor,Cancelada,2026-07-07
+810,117,11,3,2026-07-17,17:45,Seguimiento,Completada,2026-07-12
+811,71,16,8,2026-07-17,12:15,Seguimiento,No Asistió,2026-07-09
+812,13,2,2,2026-07-17,10:45,Chequeo,Completada,2026-07-14
+813,23,5,5,2026-07-17,17:30,Seguimiento,Confirmada,2026-07-15
+814,82,11,3,2026-07-18,12:00,Chequeo,Completada,2026-07-17
+815,34,15,7,2026-07-19,14:30,Chequeo,Completada,2026-07-17
+816,110,14,6,2026-07-19,14:30,Dolor,Completada,2026-07-14
+817,3,5,5,2026-07-20,09:15,Dolor,Completada,2026-07-18
+818,79,4,4,2026-07-20,08:15,Consulta general,Completada,2026-07-17
+819,87,2,10,2026-07-20,15:15,Consulta general,Completada,2026-07-17
+820,65,10,2,2026-07-20,11:45,Dolor,Completada,2026-07-16
+821,41,12,4,2026-07-21,18:00,Dolor,Completada,2026-07-13
+822,42,13,5,2026-07-21,15:45,Seguimiento,Completada,2026-07-14
+823,20,9,9,2026-07-21,13:15,Chequeo,Completada,2026-07-18
+824,62,10,10,2026-07-21,10:15,Chequeo,Completada,2026-07-17
+825,73,16,8,2026-07-22,09:00,Chequeo,Completada,2026-07-18
+826,102,11,3,2026-07-22,11:15,Control,No Asistió,2026-07-18
+827,91,8,8,2026-07-22,11:45,Consulta general,Completada,2026-07-16
+828,92,5,5,2026-07-22,13:00,Seguimiento,Completada,2026-07-21
+829,68,10,2,2026-07-22,11:45,Consulta general,Completada,2026-07-17
+830,57,11,3,2026-07-22,09:30,Seguimiento,Completada,2026-07-12
+831,19,11,3,2026-07-22,14:00,Dolor,Completada,2026-07-15
+832,8,5,5,2026-07-22,15:00,Seguimiento,No Asistió,2026-07-19
+833,67,6,6,2026-07-23,11:00,Dolor,Cancelada,2026-07-17
+834,11,14,6,2026-07-23,13:00,Control,Completada,2026-07-22
+835,29,8,8,2026-07-23,10:15,Dolor,Completada,2026-07-16
+836,113,12,4,2026-07-23,16:15,Seguimiento,Completada,2026-07-14
+837,16,10,10,2026-07-24,15:00,Control,Completada,2026-07-17
+838,83,8,8,2026-07-24,17:30,Consulta general,Completada,2026-07-19
+839,102,8,8,2026-07-24,09:00,Consulta general,Cancelada,2026-07-14
+840,7,1,1,2026-07-24,12:00,Chequeo,Completada,2026-07-14
+841,16,1,1,2026-07-24,15:15,Consulta general,Completada,2026-07-20
+842,5,16,8,2026-07-24,14:45,Consulta general,Completada,2026-07-14
+843,72,16,8,2026-07-24,11:00,Consulta general,Completada,2026-07-14
+844,60,12,4,2026-07-24,12:15,Chequeo,Cancelada,2026-07-15
+845,53,12,4,2026-07-24,14:00,Seguimiento,Completada,2026-07-18
+846,105,7,7,2026-07-25,14:00,Consulta general,Cancelada,2026-07-16
+847,6,4,4,2026-07-26,17:00,Control,Completada,2026-07-23
+848,29,15,7,2026-07-26,10:15,Control,Pendiente,2026-07-24
+849,64,5,5,2026-07-26,09:30,Chequeo,Completada,2026-07-21
+850,52,1,1,2026-07-26,17:30,Dolor,Completada,2026-07-22
+851,97,4,4,2026-07-27,14:30,Chequeo,No Asistió,2026-07-26
+852,49,2,2,2026-07-27,15:00,Control,Completada,2026-07-25
+853,88,5,5,2026-07-27,17:00,Chequeo,No Asistió,2026-07-25
+854,65,6,6,2026-07-27,15:30,Chequeo,Confirmada,2026-07-18
+855,84,2,2,2026-07-27,12:00,Chequeo,Confirmada,2026-07-24
+856,116,15,7,2026-07-27,12:15,Control,Completada,2026-07-21
+857,111,16,8,2026-07-27,11:45,Consulta general,Cancelada,2026-07-25
+858,22,5,5,2026-07-27,10:00,Dolor,Completada,2026-07-20
+859,118,8,8,2026-07-27,10:00,Consulta general,Completada,2026-07-17
+860,39,5,5,2026-07-28,14:00,Control,Completada,2026-07-27
+861,71,3,3,2026-07-28,10:15,Seguimiento,Cancelada,2026-07-26
+862,62,3,3,2026-07-28,17:15,Chequeo,Completada,2026-07-22
+863,96,5,5,2026-07-28,15:45,Seguimiento,Completada,2026-07-24
+864,39,11,3,2026-07-28,12:45,Chequeo,Completada,2026-07-18
+865,41,11,3,2026-07-29,11:15,Dolor,Completada,2026-07-25
+866,103,10,2,2026-07-29,11:30,Control,Pendiente,2026-07-23
+867,27,15,7,2026-07-29,17:15,Dolor,Completada,2026-07-25
+868,16,13,5,2026-07-29,16:45,Seguimiento,Completada,2026-07-24
+869,24,4,4,2026-07-29,13:00,Consulta general,Completada,2026-07-24
+870,93,9,1,2026-07-29,12:45,Seguimiento,Completada,2026-07-19
+871,12,9,9,2026-07-30,15:00,Chequeo,Completada,2026-07-26
+872,53,15,7,2026-07-30,15:15,Chequeo,Pendiente,2026-07-20
+873,97,13,5,2026-07-30,08:30,Chequeo,Completada,2026-07-23
+874,52,9,9,2026-07-30,11:30,Chequeo,Cancelada,2026-07-20
+875,113,16,8,2026-07-30,08:15,Consulta general,Completada,2026-07-22
+876,21,6,6,2026-07-31,11:15,Chequeo,Cancelada,2026-07-25
+877,7,8,8,2026-07-31,09:15,Control,Completada,2026-07-30
+878,112,3,3,2026-07-31,17:00,Seguimiento,Completada,2026-07-26
+879,23,5,5,2026-07-31,16:15,Consulta general,Completada,2026-07-25
+880,23,4,4,2026-07-31,11:15,Consulta general,Completada,2026-07-29
+881,74,13,5,2026-07-31,12:45,Chequeo,Completada,2026-07-28
+882,48,1,9,2026-07-31,13:45,Consulta general,Completada,2026-07-27
+883,60,12,4,2026-07-31,11:45,Consulta general,Completada,2026-07-27
+884,10,10,2,2026-07-31,13:45,Chequeo,Completada,2026-07-29
+885,48,1,9,2026-07-31,15:45,Control,Completada,2026-07-23
+886,5,3,3,2026-08-01,10:45,Chequeo,Completada,2026-07-27
+887,33,7,7,2026-08-01,08:00,Consulta general,Completada,2026-07-27
+888,114,11,3,2026-08-01,18:30,Control,Completada,2026-07-23
+889,14,5,5,2026-08-01,16:15,Seguimiento,Cancelada,2026-07-28
+890,116,5,5,2026-08-02,09:30,Chequeo,Completada,2026-07-26
+891,56,13,5,2026-08-02,14:15,Consulta general,Completada,2026-07-27
+892,49,3,3,2026-08-02,09:00,Consulta general,Completada,2026-07-30
+893,5,3,3,2026-08-03,08:00,Seguimiento,Cancelada,2026-07-31
+894,115,13,5,2026-08-03,15:00,Dolor,Completada,2026-07-24
+895,5,13,5,2026-08-03,13:15,Chequeo,Confirmada,2026-07-28
+896,66,10,2,2026-08-03,12:45,Seguimiento,Completada,2026-07-29
+897,99,11,3,2026-08-04,13:15,Chequeo,Pendiente,2026-07-28
+898,16,10,2,2026-08-04,11:45,Dolor,Confirmada,2026-08-01
+899,51,7,7,2026-08-04,13:00,Dolor,Completada,2026-07-28
+900,33,14,6,2026-08-04,09:45,Dolor,Cancelada,2026-08-01
+901,6,5,5,2026-08-04,11:45,Seguimiento,No Asistió,2026-08-01
+902,54,2,2,2026-08-04,08:30,Control,Pendiente,2026-07-29
+903,44,1,9,2026-08-04,09:45,Control,Cancelada,2026-07-31
+904,19,11,3,2026-08-05,18:30,Control,Completada,2026-07-26
+905,81,3,3,2026-08-05,15:45,Control,No Asistió,2026-07-26
+906,30,11,3,2026-08-05,17:15,Dolor,Completada,2026-08-04
+907,103,9,1,2026-08-05,16:45,Dolor,Completada,2026-07-26
+908,72,11,3,2026-08-05,10:15,Chequeo,Completada,2026-08-03
+909,40,3,3,2026-08-05,09:15,Consulta general,Cancelada,2026-08-01
+910,100,9,1,2026-08-06,10:00,Dolor,Cancelada,2026-08-04
+911,65,15,7,2026-08-06,16:00,Control,Completada,2026-08-01
+912,103,3,3,2026-08-06,09:15,Seguimiento,Completada,2026-07-28
+913,100,13,5,2026-08-06,11:15,Chequeo,Completada,2026-07-27
+914,74,12,4,2026-08-07,08:30,Chequeo,Completada,2026-08-06
+915,41,8,8,2026-08-07,12:45,Consulta general,Completada,2026-08-06
+916,53,1,9,2026-08-07,08:30,Consulta general,Completada,2026-08-04
+917,74,7,7,2026-08-08,17:00,Dolor,Completada,2026-08-03
+918,13,13,5,2026-08-09,08:30,Chequeo,No Asistió,2026-08-07
+919,85,11,3,2026-08-09,12:00,Consulta general,Completada,2026-07-30
+920,61,7,7,2026-08-10,10:15,Control,Pendiente,2026-08-06
+921,53,1,9,2026-08-10,18:30,Seguimiento,Completada,2026-08-02
+922,91,14,6,2026-08-10,12:45,Consulta general,Completada,2026-08-03
+923,88,13,5,2026-08-11,10:15,Consulta general,Completada,2026-08-01
+924,85,7,7,2026-08-11,18:15,Dolor,Completada,2026-08-07
+925,113,10,2,2026-08-11,10:30,Chequeo,Completada,2026-08-10
+926,57,5,5,2026-08-11,08:15,Chequeo,Completada,2026-08-07
+927,116,10,2,2026-08-12,12:15,Control,Cancelada,2026-08-02
+928,74,6,6,2026-08-12,18:45,Consulta general,No Asistió,2026-08-09
+929,3,11,3,2026-08-12,16:45,Consulta general,Completada,2026-08-04
+930,114,8,8,2026-08-12,13:00,Dolor,Cancelada,2026-08-04
+931,98,8,8,2026-08-12,16:30,Chequeo,Completada,2026-08-03
+932,28,12,4,2026-08-12,09:00,Control,Completada,2026-08-05
+933,102,8,8,2026-08-13,08:45,Control,Confirmada,2026-08-10
+934,85,1,9,2026-08-13,15:15,Dolor,Cancelada,2026-08-11
+935,12,8,8,2026-08-13,17:30,Dolor,Completada,2026-08-07
+936,26,5,5,2026-08-13,12:45,Chequeo,Completada,2026-08-09
+937,9,6,6,2026-08-13,15:45,Dolor,Completada,2026-08-12
+938,68,11,3,2026-08-13,15:15,Control,Cancelada,2026-08-04
+939,85,7,7,2026-08-13,15:45,Chequeo,Completada,2026-08-08
+940,102,5,5,2026-08-14,08:15,Control,Pendiente,2026-08-12
+941,72,16,8,2026-08-14,14:15,Seguimiento,Completada,2026-08-05
+942,11,11,3,2026-08-14,16:00,Dolor,Completada,2026-08-05
+943,12,5,5,2026-08-14,17:45,Control,Completada,2026-08-12
+944,42,6,6,2026-08-17,18:00,Seguimiento,Completada,2026-08-09
+945,105,5,5,2026-08-17,17:45,Control,Completada,2026-08-15
+946,45,11,3,2026-08-17,09:30,Dolor,Pendiente,2026-08-08
+947,20,13,5,2026-08-17,14:00,Seguimiento,Completada,2026-08-12

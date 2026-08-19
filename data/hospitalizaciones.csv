@@ -1,0 +1,19 @@
+id_hospitalizacion,id_paciente,id_medico,id_cama,fecha_ingreso,motivo_ingreso,diagnostico_ingreso,costo_diario,fecha_alta,estado
+1,71,2,25,2026-07-08,Observación,Asma,1907.5,2026-07-12,Alta
+2,110,15,25,2026-07-09,Fractura,Rinofaringitis aguda (resfriado común),1298.87,2026-07-19,Alta
+3,9,2,25,2026-07-31,Urgencia,Infección aguda de vías respiratorias altas,3054.23,2026-08-07,Alta
+4,16,1,23,2026-08-01,Observación,Diabetes mellitus tipo 2,2278.19,2026-08-12,Alta
+5,61,16,11,2026-06-22,Parto,Cefalea,2739.09,2026-06-26,Alta
+6,25,3,6,2026-07-23,Cirugía programada,Diarrea y gastroenteritis de presunto origen infeccioso,1182.05,,Hospitalizado
+7,52,10,16,2026-07-02,Urgencia,Dermatitis atópica,1900.63,,Hospitalizado
+8,21,1,8,2026-08-02,Urgencia,Trastorno de ansiedad generalizada,2750.07,2026-08-05,Alta
+9,109,14,9,2026-08-04,Cirugía programada,Diabetes mellitus tipo 2,2047.31,,Hospitalizado
+10,6,13,6,2026-07-30,Observación,Gastritis no especificada,1757.63,2026-08-06,Alta
+11,97,12,5,2026-06-30,Observación,Rinofaringitis aguda (resfriado común),1888.85,,Hospitalizado
+12,30,12,12,2026-07-27,Observación,Diarrea y gastroenteritis de presunto origen infeccioso,3389.89,2026-08-01,Alta
+13,117,1,25,2026-07-06,Urgencia,Asma,1910.22,,Hospitalizado
+14,36,10,16,2026-07-16,Cirugía programada,Cefalea,2884.5,2026-07-25,Alta
+15,94,4,20,2026-07-25,Fractura,Trastorno de ansiedad generalizada,2200.62,,Hospitalizado
+16,107,9,7,2026-07-27,Fractura,Diarrea y gastroenteritis de presunto origen infeccioso,3045.73,2026-08-04,Alta
+17,8,11,18,2026-08-15,Cirugía programada,Gastritis no especificada,3481.44,,Hospitalizado
+18,38,8,25,2026-08-04,Observación,Hipertensión arterial esencial,3037.02,2026-08-10,Alta
